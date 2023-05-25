@@ -2,7 +2,7 @@
 
 Welcome! This respostitory contains my solution for [Rocketseat´s](https://www.rocketseat.com.br/ignite?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_term=ignite&utm_content=lead-ignite-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV@IGNITE) open source [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
 
-![Prototype](./.github/prototype.png)
+![Prototype](https://user-images.githubusercontent.com/36738524/240778844-d8fdd6d1-7ecd-4ff2-bf71-969a65677459.png)
 
 # 🧠 About
 
@@ -18,7 +18,7 @@ The challenge is to implement an e-commerce for the sale of mugs and t-shirts th
 
 ## 📋 Requirements
 
-- Follow [this prototype](https://user-images.githubusercontent.com/36738524/240778844-d8fdd6d1-7ecd-4ff2-bf71-969a65677459.png)
+- Follow [this prototype](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449)
 - Use Next.js and Typescript
 - Create components with styled-components
 - consume from the provided **GraphQL API**
