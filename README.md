@@ -18,7 +18,7 @@ The challenge is to implement an e-commerce for the sale of mugs and t-shirts th
 
 ## 📋 Requirements
 
-- Follow [this prototype](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449)
+- Follow [this prototype](https://github.com/vagner531/capputeeno/assets/36738524/d8fdd6d1-7ecd-4ff2-bf71-969a65677459)
 - Use Next.js and Typescript
 - Create components with styled-components
 - consume from the provided **GraphQL API**
